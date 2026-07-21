@@ -472,7 +472,10 @@
       "nombre_fix": "EA SPORTS™ College Football 27 - bypass",
       "custom_images": {
 	  	"hero_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/0d18c22e927cc6fe246d6a0412c87096ff33c00a/library_capsule.jpg",
-        "background": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/d7f665add8823c65c31620619fa50b91dbc07e28/library_hero_2x.jpg"
+        "background": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/d7f665add8823c65c31620619fa50b91dbc07e28/library_hero_2x.jpg",
+		"cover_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/0d18c22e927cc6fe246d6a0412c87096ff33c00a/library_capsule.jpg",
+		"hero_image_x2": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/d7f665add8823c65c31620619fa50b91dbc07e28/library_hero_2x.jpg?t=1784128711",
+		"logo_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/58f40804b0aa54fbd62312128ba21a92a8c905ad/logo.png",
 	  }
     },
     "3405690": {
